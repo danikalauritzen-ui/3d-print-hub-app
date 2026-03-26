@@ -33,4 +33,10 @@ This project is an e-commerce mobile application designed for my 3D printing sho
 I am building this application in **10-minute daily increments** to demonstrate consistency and a focused learning path during my transition to Software Engineering.
 
 - **Day 1:** Project scoping, repository setup, and README documentation.
-- **Day 2:** (Next step...)
+- **Day 2: Mapping the User Journey**
+  - Goal: Define how a customer interacts with the 3D print shop.
+  - User Flow Steps:
+    1. **Home Screen:** Browse featured 3D models (categories: Games, Home Decor, Tech).
+    2. **Product Page:** View high-res photos and material details (PLA, Resin).
+    3. **Cart:** Review items and quantity.
+    4. **Checkout:** Simple login/guest checkout and payment confirmation.
