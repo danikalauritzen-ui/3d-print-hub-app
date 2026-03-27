@@ -21,11 +21,11 @@ This project is an e-commerce mobile application designed for my 3D printing sho
 
 ---
 
-## 🛠️ Tech Stack (Work in Progress)
-*This section will be updated as the development progresses.*
-- **Design:** Figma / Metaverse Design principles.
-- **Frontend:** (To be defined)
-- **Backend:** (To be defined)
+## 🛠️ Tech Stack
+- **Design:** Figma (UI/UX) & Metaverse Design Principles.
+- **Frontend:** Flutter (Dart) - Chosen for its high-performance UI capabilities.
+- **Backend:** Firebase (Authentication, Firestore, and Storage).
+- **Version Control:** Git & GitHub.
 
 ---
 
@@ -40,3 +40,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
     2. **Product Page:** View high-res photos and material details (PLA, Resin).
     3. **Cart:** Review items and quantity.
     4. **Checkout:** Simple login/guest checkout and payment confirmation.
+- **Day 3: Tech Stack Selection**
+  - Goal: Choose the tools to build the app.
+  - Decision: Selected **Flutter** for the frontend to ensure a high-quality design-to-code transition and **Firebase** for a scalable backend.
