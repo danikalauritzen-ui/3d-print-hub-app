@@ -29,6 +29,15 @@ This project is an e-commerce mobile application designed for my 3D printing sho
 
 ---
 
+## 🎨 UI Components (Design System)
+The interface will follow a clean, modern aesthetic to showcase 3D models.
+- **Product Cards:** Featuring high-res images, title, and "Add to Cart" quick action.
+- **Category Chips:** Horizontal scrolling filters (e.g., Figures, Home, Accessories).
+- **Cart Badge:** Real-time counter for selected items in the navigation bar.
+- **Custom Buttons:** Minimalist style for "Checkout" and "Buy Now."
+
+---
+
 ## 📈 Development Journal (The "10-Minute" Challenge)
 I am building this application in **10-minute daily increments** to demonstrate consistency and a focused learning path during my transition to Software Engineering.
 
@@ -43,3 +52,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 3: Tech Stack Selection**
   - Goal: Choose the tools to build the app.
   - Decision: Selected **Flutter** for the frontend to ensure a high-quality design-to-code transition and **Firebase** for a scalable backend.
+- **Day 4: UI Architecture & Components**
+  - Goal: Define the visual structure of the app.
+  - Progress: Listed the key UI components to ensure a consistent design-to-code transition using Flutter.
