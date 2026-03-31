@@ -38,6 +38,14 @@ The interface will follow a clean, modern aesthetic to showcase 3D models.
 
 ---
 
+## 🔍 Product Visualization Strategy
+To leverage my background in Metaverse Design, the app will feature:
+- **Interactive 3D Previews:** Integration with 3D viewers to rotate and inspect models.
+- **Material Showcase:** High-detail close-ups for PLA and Resin textures.
+- **Scale Reference:** Visual indicators to help users understand the physical size of 3D prints.
+
+---
+
 ## 📈 Development Journal (The "10-Minute" Challenge)
 I am building this application in **10-minute daily increments** to demonstrate consistency and a focused learning path during my transition to Software Engineering.
 
@@ -55,3 +63,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 4: UI Architecture & Components**
   - Goal: Define the visual structure of the app.
   - Progress: Listed the key UI components to ensure a consistent design-to-code transition using Flutter.
+- **Day 5: Product Visualization Planning**
+  - Goal: Define how 3D models will be presented to the user.
+  - Progress: Integrated 3D viewing concepts into the UX, bridging the gap between Metaverse Design and Mobile E-commerce.
