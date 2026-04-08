@@ -46,6 +46,18 @@ To leverage my background in Metaverse Design, the app will feature:
 
 ---
 
+## 💾 Data Structure (Firestore Schema)
+To manage the 3D shop inventory, each product will store the following attributes:
+- **Product ID:** Unique identifier for the database.
+- **Name:** Title of the 3D model (e.g., "Dragon Miniature").
+- **Category:** Tag for filtering (e.g., "Tabletop RPG", "Decor").
+- **Material:** Options for printing (PLA, Resin, PETG).
+- **Price:** Based on material volume and print time.
+- **Image Gallery:** Links to high-quality photos stored in Firebase.
+- **3D File Link:** URL for the interactive previewer.
+
+---
+
 ## 📈 Development Journal (The "10-Minute" Challenge)
 I am building this application in **10-minute daily increments** to demonstrate consistency and a focused learning path during my transition to Software Engineering.
 
@@ -66,3 +78,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 5: Product Visualization Planning**
   - Goal: Define how 3D models will be presented to the user.
   - Progress: Integrated 3D viewing concepts into the UX, bridging the gap between Metaverse Design and Mobile E-commerce.
+- **Day 6: Data Schema Design**
+  - Goal: Map the information needed for the product database.
+  - Progress: Defined the Firestore attributes to ensure seamless integration between the shop's inventory and the app's interface.
