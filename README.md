@@ -58,6 +58,15 @@ To manage the 3D shop inventory, each product will store the following attribute
 
 ---
 
+## 📝 User Stories
+To guide the development process, I've defined the core user needs:
+- **As a Collector:** I want to filter products by material (Resin vs PLA) so I can choose the best quality for my miniatures.
+- **As a First-time Buyer:** I want an intuitive navigation so I can find and purchase a 3D model in less than 3 minutes.
+- **As a Tech Enthusiast:** I want to rotate the 3D preview of the model to check for printing details before buying.
+- **As a User:** I want to save items in a cart so I can manage my budget before finalizing the checkout.
+
+---
+
 ## 📈 Development Journal (The "10-Minute" Challenge)
 I am building this application in **10-minute daily increments** to demonstrate consistency and a focused learning path during my transition to Software Engineering.
 
@@ -81,3 +90,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 6: Data Schema Design**
   - Goal: Map the information needed for the product database.
   - Progress: Defined the Firestore attributes to ensure seamless integration between the shop's inventory and the app's interface.
+- **Day 7: User Stories & Requirements**
+  - Goal: Define functional requirements from a user perspective.
+  - Progress: Drafted the primary user stories to ensure the app solves real customer needs in the 3D printing niche.
