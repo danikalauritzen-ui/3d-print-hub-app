@@ -93,3 +93,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 7: User Stories & Requirements**
   - Goal: Define functional requirements from a user perspective.
   - Progress: Drafted the primary user stories to ensure the app solves real customer needs in the 3D printing niche.
+- **Day 8: Backend Infrastructure Setup**
+  - Goal: Initialize the project's cloud environment.
+  - Progress: Created the official project on Firebase Console, preparing the ground for Authentication and Firestore Database integration.
