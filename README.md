@@ -96,3 +96,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 8: Backend Infrastructure Setup**
   - Goal: Initialize the project's cloud environment.
   - Progress: Created the official project on Firebase Console, preparing the ground for Authentication and Firestore Database integration.
+- **Day 9: Development Environment Setup**
+  - Goal: Prepare the local machine for coding.
+  - Progress: Installed VS Code and initialized the Flutter SDK setup. Ready to start building the application's structure.
