@@ -105,3 +105,6 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 11: First Launch & Project Generation**
   - **Action:** Created the official `three_d_print_hub` project and successfully ran the boilerplate application.
   - **Result:** The development environment is fully operational, and the first "Hello World" (counter app) is running on my machine.
+- **Day 12: Cleaning & Customizing**
+  - **Action:** Deleted the default Flutter counter code and implemented the first custom screen for 3D Print Hub.
+  - **Learning:** Tested "Hot Reload" and created a basic UI with AppBar and Center text. The app now officially carries its own name!
