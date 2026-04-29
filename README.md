@@ -108,3 +108,7 @@ I am building this application in **10-minute daily increments** to demonstrate 
 - **Day 12: Cleaning & Customizing**
   - **Action:** Deleted the default Flutter counter code and implemented the first custom screen for 3D Print Hub.
   - **Learning:** Tested "Hot Reload" and created a basic UI with AppBar and Center text. The app now officially carries its own name!
+- **Day 13: UI Construction**
+  - **Action:** Replaced the welcome text with a structured Column layout.
+  - **Visuals:** Added a 3D manufacturing icon and a "New Print" button.
+  - **Victory:** Successfully handled the Flutter build process on Web.
